@@ -1,13 +1,14 @@
-![Kelvya Thais](/src/Kelvya.mp4)
+https://user-images.githubusercontent.com/99570969/187722292-e5feffce-fa97-4661-8c49-cb100a87ac55.mp4
 
 # :innocent: Sobre mim:
 
 Sou estudante e estou aprendendo muito com:
+<img align='right' src="https://github.com/kelvya/kelvya/blob/main/src/Sobre.png" width="300">
 
 - Faculdade **Engenharia de Software** na UNOPAR
 - Curso **Full Stack JavaScript Developer** na T.EX Technology Experts
 - Curso
-  <img align='right' src="./src/Sobre.png" width="230"
+  
 
 ## Atualmente estou trabalhando em:
 
