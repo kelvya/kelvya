@@ -1,13 +1,18 @@
-![Kelvya Thais](/src/Kelvya.mp4)
+https://user-images.githubusercontent.com/99570969/187722292-e5feffce-fa97-4661-8c49-cb100a87ac55.mp4
 
 # :innocent: Sobre mim:
 
 Sou estudante e estou aprendendo muito com:
+<img align='right' src="https://github.com/kelvya/kelvya/blob/main/src/Sobre.png" width="300">
 
 - Faculdade **Engenharia de Software** na UNOPAR
 - Curso **Full Stack JavaScript Developer** na T.EX Technology Experts
+<<<<<<< HEAD
 - Curso **AWS Academy Cloud Foundations** no Programa de aceleração de carreira da Amazon + Capgemini + Canal Conecta
 - Curso **AWS Academy Cloud Developing** no Programa de aceleração de carreira da Amazon + Capgemini + Canal Conecta
+=======
+- Curso
+>>>>>>> fc4f5995beba0c4e52af2f01676b55a710ba92ff
   
 
 ## Atualmente estou trabalhando em:
