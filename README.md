@@ -1,16 +1,27 @@
-### Hi there 👋
+![Kelvya Thais](/src/Kelvya.mp4)
 
-<!--
-**kelvya/kelvya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :innocent: Sobre mim:
 
-Here are some ideas to get you started:
+Sou estudante e estou aprendendo muito com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Faculdade **Engenharia de Software** na UNOPAR
+- Curso **Full Stack JavaScript Developer** na T.EX Technology Experts
+- Curso
+  <img align='right' src="./src/Sobre.png" width="230"
+
+## Atualmente estou trabalhando em:
+
+## Estou aprendendo:
+
+## Estou procurando colaborar em:
+
+## Estou procurando ajuda com:
+
+- JavaScript
+    <p>Atualmente estou estudando sobre a libguagem e aceito qualquer dica, então se você já manja ou tem aquela dica maneira manda pra coleguinha aqui :blush: </p>
+
+## Como chegar até mim:
+
+## Pronomes:
+
+## Curiosidade:
